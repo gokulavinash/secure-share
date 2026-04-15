@@ -23,7 +23,7 @@ Admin approves
 File is decrypted during download
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/DDevakiD/major.git
+git clone https://github.com/gokulavinash/secure-share.git
 cd SecureShare
 2. Backend Setup
 cd FileSharing-main
